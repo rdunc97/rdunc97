@@ -9,3 +9,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rdunc97/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rdunc97/azure-network-protocols)
 
+<h2> :sparkles: AI Projects :</h2>
+ 
+- <b>Bias/Ethics in AI Graduate Course</b>
+   - [Mitigating AI Racial Bias In Crime Prediction Model](https://github.com/rdunc97/FinalProject_BiasInAI)
+
