@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Help Desk Ticketing System Installation & Configuration (osTicket) </b>
+- <b>Installing and Configuring My Personal Help Desk Ticketing System (osTicket) </b>
   - [osTicket: Prerequisites and Installation](https://github.com/rdunc97/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/rdunc97/post-install-config)
 - <b>Microsoft Azure</b>
