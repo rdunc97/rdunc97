@@ -2,12 +2,14 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Installing and Configuring My Personal Help Desk Ticketing System (osTicket) </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/rdunc97/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/rdunc97/post-install-config)
 - <b>Microsoft Azure & Networking </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/rdunc97/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/rdunc97/azure-network-protocols)
+  
+- <b>Installing and Configuring My Personal Help Desk Ticketing System (osTicket) </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/rdunc97/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/rdunc97/post-install-config)
+
 
 <h2> :sparkles: AI Projects :</h2>
  
